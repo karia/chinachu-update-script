@@ -1,7 +1,7 @@
 #!/usr/bin/zsh
 
 if [ $# -ne 1 ] ; then
-  echo "usage: $0 /path/tp/chinachu-dir"
+  echo "usage: $0 /path/to/chinachu-dir"
   exit
 fi
 
